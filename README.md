@@ -1,5 +1,5 @@
 # Modifying-SRMAP-Student-Portal-Frontend
-This is my First and Small Project in Web Development to Test the Skills which I learnt.
+This is my First and Small Project in Web Development 💻 to Test the Skills which I learnt. After learning the basics I decided to test my skills on the front end of the login page of out College Student Portal and It worked out. 😀😀😀😀
 
                                                                  From This :
                                                                  
